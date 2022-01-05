@@ -8,7 +8,7 @@ Let's do it!
 Topics to be covered:
 - Dash python
 - Regression based ML
-- Real-timee data fetching: `yfinance` 
+- Real-time data fetching: `yfinance` 
 - Python visualizations: `plotly` 
 - Stock market analysis 
 - Deployment: Heroku
