@@ -7,11 +7,11 @@ Project context:
 - Developing this project idea using the `Dash` library (of Python), we can make dynamic plots of the financial data of a specific company by using the tabular data provided by yfinance python library. On top of it we can use a machine learning algorithm to `predict the upcoming stock prices`.
 
 Workflow approach:
-1.Make the main website's structure using mainly Dash HTML Components and Dash Core Components.
-2.Enhance the site's UI by styling using CSS.
-3.Generate plots of data using the plotly library of Python. The data is fetched using yfinance python library/
-4.Implement a machine learning model to predict the stock price for the dates requested by the user.
-5.Deploy the project on Heroku to host the application live.
+1. Make the main website's structure using mainly Dash HTML Components and Dash Core Components.
+2. Enhance the site's UI by styling using CSS.
+3. Generate plots of data using the plotly library of Python. The data is fetched using yfinance python library/
+4. Implement a machine learning model to predict the stock price for the dates requested by the user.
+5. Deploy the project on Heroku to host the application live.
 
 File structure is as follows:
 - `app.py` contains web layout and server function. We will be referring to it as our main file.
