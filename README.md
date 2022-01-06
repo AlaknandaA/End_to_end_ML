@@ -20,3 +20,10 @@ File structure is as follows:
 - The `assets` folder is where we keep our CSS files for styling and any other miscellaneous files like images (if u wish to include it in your site)
 - `requirements.txt` is created so that other developers can install the correct versions of the required Python packages to run your Python code.
 - The `Procfile` is created for deployment using Heroku. It is not needed to run the app locally.
+
+Note:
+- `numpy` library is used for multi-dimensional array operations.
+- `pandas` is used for creating DataFrames to efficiently manage the data.
+- `yfinance` is a library that allows us to fetch financial data of a company (since its listing in the stock market) from its stock code directly.
+- `gunicorn` and `lxml` libraries will be used for the application's deployment i.e. to host the app on a target server.
+- `sklearn` and `scikit-learn` are tools used in the development of Machine Learning (ML) models.
