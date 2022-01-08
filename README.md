@@ -1,6 +1,5 @@
 # End_to_end_ML
-my first end to end ML project with Muskaan
-
+Muskaan and mine first end to end ML project together
 [@Project reference](https://www.crio.do/projects/python-forecasting-stocks-dash/)
 
 Let's do it!
