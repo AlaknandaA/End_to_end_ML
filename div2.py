@@ -10,7 +10,6 @@ import pandas as pd
 app = dash.Dash(__name__)
 server = app.server
 
-"""
 #web layout
 # app.layout = html.Div([item1, item2])
 
@@ -36,7 +35,9 @@ app.layout = html.Div([
         #forecast-content
     ], id="forecast-content")
 ], className="stock_content")
-"""
+
+
+
 
 #dash layout tutorial
 df = pd.DataFrame({
